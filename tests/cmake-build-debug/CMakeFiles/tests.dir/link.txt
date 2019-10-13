@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tests.dir/main.cpp.o  -o tests  -L/home/student/Desktop/OOP/1/Homework/tests/googletest/build/lib -Wl,-rpath,/home/student/Desktop/OOP/1/Homework/tests/googletest/build/lib -lgtest /home/student/Desktop/OOP/1/Homework/main/cmake-build-debug/libmain.a -lpthread 

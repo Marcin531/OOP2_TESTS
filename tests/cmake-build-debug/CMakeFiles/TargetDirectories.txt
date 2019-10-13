@@ -1,0 +1,3 @@
+/home/student/Desktop/OOP/1/Homework/tests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/OOP/1/Homework/tests/cmake-build-debug/CMakeFiles/tests.dir
+/home/student/Desktop/OOP/1/Homework/tests/cmake-build-debug/CMakeFiles/edit_cache.dir
